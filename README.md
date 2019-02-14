@@ -1,4 +1,6 @@
 # NLP Final Paper - Sentiment Analysis using Neural Networks, Logistic Regression, and Pott’s Scores
+## [The Paper]: http://www.reddit.com https://github.com/charleswdickstein/DevOpsPracticeAssignment/blob/master/nlp-final-paper.pdf
+
 My research experimented with sentiment
 analysis using Neural Networks, logistic
 regression, and naive bayes based systems to
