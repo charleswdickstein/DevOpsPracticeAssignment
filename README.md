@@ -1,14 +1,9 @@
-# NLP Final Paper - Sentiment Analysis using Neural Networks, Logistic Regression, and Pott’s Scores
-## [The Paper](https://github.com/charleswdickstein/DevOpsPracticeAssignment/blob/master/nlp-final-paper.pdf)
+# Dev Ops - Git Practice Assignment
+## [Is facebook looking into crypto?](https://www.technologyreview.com/the-download/612885/facebook-seems-interested-in-speeding-up-blockchain-smart-contracts-but-why/)
 
-My research experimented with sentiment
-analysis using Neural Networks, logistic
-regression, and naive bayes based systems to
-predict the ratings of Amazon product reviews.
-Using over 500 thousand Amazon reviews, three
-techniques for sentiment analysis were
-developed to predict the rating of an Amazon
-review based on text. Of the three systems a
-Dense Neural Network achieved the highest
-score to predict reviews by category while a
-Pott’s Diagram performed the worst.
+Summary: According to MIT's Technology Review facebook may be trying to 
+develop cryptocurrency for possible use in WhatsApp. If facebook had a cryptocurrency, 
+what do you think its affects would be on society and the economy? 
+
+
+
